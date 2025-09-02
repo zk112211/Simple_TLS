@@ -94,5 +94,13 @@ Feel free to submit issues, feature requests, or pull requests to improve this i
 
 ## Author
 
-Originally implemented by ZiHuan Wang (2018)
-Updated and maintained by the community
+**KAI ZHU**
+
+This is a course project for Computer Networks and Security course, demonstrating the implementation of Go-Back-N protocol for reliable data transfer.
+
+## Course Information
+
+- **Course**: Computer Networks and Security
+- **Project Type**: Protocol Implementation
+- **Semester**: Spring 2024
+- **Institution**: University Course Project
